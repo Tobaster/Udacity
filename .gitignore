@@ -21,6 +21,7 @@ parts/
 sdist/
 var/
 wheels/
+$Recycle.Bin/
 *.egg-info/
 .installed.cfg
 *.egg
@@ -86,6 +87,10 @@ celerybeat-schedule
 .venv
 venv/
 ENV/
+
+# pipenv
+Pipfile
+Pipfile.lock
 
 # Spyder project settings
 .spyderproject
