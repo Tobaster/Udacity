@@ -101,6 +101,8 @@ Pipfile.lock
 
 # mkdocs documentation
 /site
+enron_mail/
+mini_project/
 
 # mypy
 .mypy_cache/
